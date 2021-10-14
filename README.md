@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://vk.com/id42916245">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
-<a href="https://www.instagram.com/your_profile">
+<a href="https://www.instagram.com/koshelev_evg">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
